@@ -3,7 +3,7 @@
 ## Results:
 
 
-# Step-By-Step Procedures for Microsoft Sentinel Deployment
+# Detail Procedures for Microsoft Sentinel Deployment
 
 <details>
   <summary>Click to expand</summary>
