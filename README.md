@@ -1,7 +1,20 @@
-# Microsoft Sentinel
+# Microsoft Sentinel Results:
+<img src="/Sentinel/r3.PNG">
 
-## Results:
+##
+<img src="/Sentinel/r4.PNG">
 
+##
+<img src="/Sentinel/r5.PNG">
+
+##
+<img src="/Sentinel/r6.PNG">
+
+## ChatGPT Playbook and Automation Rule
+<img src="/Sentinel/r1.PNG">
+
+##
+<img src="/Sentinel/r2.PNG">
 
 # Step-By-Step for Microsoft Sentinel Deployment
 
