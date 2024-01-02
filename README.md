@@ -38,3 +38,26 @@
 <img src="/Sentinel/s7.PNG">
 
 </details>
+
+# Configure Tor IP Watchlist
+<details>
+  <summary>Click to expand</summary>
+
+## Step 1: Enable both UEBA and Playbook permissions in Microsoft Sentinel setting
+<img src="/Sentinel/s8.PNG">
+
+---
+
+<img src="/Sentinel/s9.PNG">
+
+## Step 2: Create a new Watchlist
+<img src="/Sentinel/s10.PNG">
+
+## Step 3: Upload your custom Tor IP Watchlist
+- Finshed the create
+<img src="/Sentinel/s11.PNG">
+
+## In KQL log, you can view all the IP address in your Watchlist
+<img src="/Sentinel/s12.PNG">
+
+</details>
