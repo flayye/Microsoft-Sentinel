@@ -56,7 +56,7 @@
 
 </details>
 
-# Configure Tor IP Watchlist
+# Tor IP Watchlist Configuration
 <details>
   <summary>Click to expand</summary>
 
