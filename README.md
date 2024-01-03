@@ -1,5 +1,5 @@
 # Microsoft Sentinel 
-<img src="/Sentinel/Sent_arch.PNG" width="603" height="578">
+<img src="/Sentinel/" width="603" height="578">
 
 ## Tor IP Detection:
 <details>
