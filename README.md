@@ -1,24 +1,40 @@
-# Microsoft Sentinel Results:
+# Microsoft Sentinel 
+<img src="/Sentinel/Sent_arch.PNG">
+
+## Tor IP Detection Rule:
+<img src="/Sentinel/r7.PNG">
+
+## Tor IP Detection Results with ChatGPT remediation guidance:
 <img src="/Sentinel/r3.PNG">
 
 ---
 
+## Tactics and techniques related to Incident by ChatGPT
+<details>
+  <summary>Click to expand</summary>
 <img src="/Sentinel/r4.PNG">
+</details>
 
----
-
+## Incident Tasks created automatically by ChatGPT
+<details>
+  <summary>Click to expand</summary>
 <img src="/Sentinel/r5.PNG">
 
 ---
 
 <img src="/Sentinel/r6.PNG">
+</details>
 
-## ChatGPT Playbook and Automation Rule
+# ChatGPT Playbook and Automation Rule
+<details>
+  <summary>Click to expand</summary>
 <img src="/Sentinel/r1.PNG">
 
 ---
 
 <img src="/Sentinel/r2.PNG">
+
+</details>
 
 # Step-By-Step for Microsoft Sentinel Deployment
 
