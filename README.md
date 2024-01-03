@@ -8,6 +8,8 @@
 ### Detection Rule:
 <img src="/Sentinel/r7.PNG" width="327" height="445">
 
+---
+
 ### Detection Results with ChatGPT remediation guidance:
 <img src="/Sentinel/r3.PNG">
 </details>
