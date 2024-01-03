@@ -1,15 +1,19 @@
 # Microsoft Sentinel 
-<img src="/Sentinel/Sent_arch.PNG">
+<img src="/Sentinel/Sent_arch.PNG" width="574" height="582">
 
-## Tor IP Detection Rule:
-<img src="/Sentinel/r7.PNG">
+## Tor IP Detection:
+<details>
+  <summary>Click to expand</summary>
 
-## Tor IP Detection Results with ChatGPT remediation guidance:
+### Detection Rule:
+<img src="/Sentinel/r7.PNG" width="327" height="445">
+
+### Detection Results with ChatGPT remediation guidance:
 <img src="/Sentinel/r3.PNG">
+</details>
 
----
 
-## Tactics and techniques related to Incident by ChatGPT
+## MITRE ATT&CK tactics related to Incident
 <details>
   <summary>Click to expand</summary>
 <img src="/Sentinel/r4.PNG">
