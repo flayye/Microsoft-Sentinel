@@ -1,7 +1,7 @@
 # Microsoft Sentinel 
 <img src="/Sentinel/Sent_arch.PNG" width="603" height="578">
 
-## Tor IP Detection:
+# Tor IP Detection:
 <details>
   <summary>Click to expand</summary>
 
@@ -15,13 +15,13 @@
 </details>
 
 
-## MITRE ATT&CK tactics related to Incident
+# MITRE ATT&CK tactics related to Incident
 <details>
   <summary>Click to expand</summary>
 <img src="/Sentinel/r4.PNG">
 </details>
 
-## Incident Tasks created automatically by ChatGPT
+# Incident Tasks created automatically by ChatGPT
 <details>
   <summary>Click to expand</summary>
 <img src="/Sentinel/r5.PNG">
